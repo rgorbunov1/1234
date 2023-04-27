@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CarShop.Models.Car>
+@{
+    ViewData["Title"] = "Каталог товаров";
+}
+<h1>Все автомобили</h1>
+
+
+<div class="row mt-5 mb-2">
+    @{
+        foreach (var car in Model)
+        {
+            <div class="col-lg-4">
+                <img class="img-thumbnail" src="@car.img" alt="@car.Name">
+                <h2>@car.Name</h2>
+                <p>@car.shortDesc</p>
+                <p>Цена: @car.price</p>
+                <p><a class="btn btn-warning" href="~/Home/About/@car.Id">Подробнее</a></p>
+                <p><a href="~/Home/Buy/@car.Id">Купить</a></p>
+            </div>
+         
+        }
+    }
+
+</div>

@@ -1,0 +1,26 @@
+﻿namespace CarShop.Models
+{
+    public class Car
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+        public string shortDesc { get; set; }
+
+        public string longDesc { get; set; }
+
+        public string img { get; set; }
+
+        public ushort price { get; set; }
+
+        public bool isfavorite { get; set; }
+
+        public bool avaible { get; set; }
+
+        //public int categoryID { get; set; }
+
+        //public string Category { get; set; }
+
+    }
+}

@@ -1,0 +1,160 @@
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.csproj.AssemblyReference.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.RazorAssemblyInfo.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.RazorAssemblyInfo.cs
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\appsettings.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.staticwebassets.runtime.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.exe
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.deps.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.runtimeconfig.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\CarShop.pdb
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.CarShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.build.CarShop.props
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarShop.props
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarShop.props
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\scopedcss\bundle\CarShop.styles.css
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\scopedcss\projectbundle\CarShop.bundle.scp.css
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.csproj.CopyComplete
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\refint\CarShop.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.pdb
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\CarShop.genruntimeconfig.cache
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\obj\Debug\net6.0\ref\CarShop.dll
+C:\Users\rusla\OneDrive\Рабочий стол\ \Visual Studio\YULesson\Shop\CarShop\bin\Debug\net6.0\Json.dll
+C:\Dev\CarShop\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\CarShop\bin\Debug\net6.0\appsettings.json
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.staticwebassets.runtime.json
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.exe
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.deps.json
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.runtimeconfig.json
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.dll
+C:\Dev\CarShop\bin\Debug\net6.0\CarShop.pdb
+C:\Dev\CarShop\bin\Debug\net6.0\Azure.Core.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Azure.Identity.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Json.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Dev\CarShop\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dev\CarShop\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.csproj.AssemblyReference.cache
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.AssemblyInfoInputs.cache
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.AssemblyInfo.cs
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.csproj.CoreCompileInputs.cache
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.RazorAssemblyInfo.cache
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.RazorAssemblyInfo.cs
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.CarShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.build.CarShop.props
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CarShop.props
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CarShop.props
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\CarShop\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\CarShop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev\CarShop\obj\Debug\net6.0\scopedcss\bundle\CarShop.styles.css
+C:\Dev\CarShop\obj\Debug\net6.0\scopedcss\projectbundle\CarShop.bundle.scp.css
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.csproj.CopyComplete
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.dll
+C:\Dev\CarShop\obj\Debug\net6.0\refint\CarShop.dll
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.pdb
+C:\Dev\CarShop\obj\Debug\net6.0\CarShop.genruntimeconfig.cache
+C:\Dev\CarShop\obj\Debug\net6.0\ref\CarShop.dll
